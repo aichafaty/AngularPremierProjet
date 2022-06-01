@@ -1,0 +1,10 @@
+
+
+header{
+    display:flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem 3rem;
+
+}
